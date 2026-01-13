@@ -1,4 +1,6 @@
 """
+- A Tuple is a collection which is ordered and unchangeable.
+- Allows duplicate members.
 - Once a tuple is created, it can not be modified.
 - We can not add or remove items.
 - Tuple is ordered
